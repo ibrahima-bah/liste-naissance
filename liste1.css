@@ -1,0 +1,73 @@
+body{
+	background: url('imagesbb/fond_jaune.png');
+	font-family: 'Trebuchet MS', Arial , sans serif;
+	color:#181818;
+	border: 4mm ridge rgba(170,50,220,0.6);
+	width: 900px;
+	margin: auto;
+}
+header{
+
+	background: url('imagesbb/separateur.png') repeat-x bottom;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	font-family: dayrom , sans-serif;
+	font-size: 1.5em;
+	font-style: italic;
+	background-color: rgb(243,171,155);
+	border-radius: 10px;
+	margin-left: 7px;
+}
+#bloc_page{
+	width: 900px;
+	margin: auto;
+}
+div  h1{
+	letter-spacing: 10px;
+}
+#logo img {
+	width: 90px;
+	height: 70px;
+}
+
+#logo2 img {
+	width: 90px;
+	height: 70px;
+}
+#logo3 img{
+	width: 90px;
+	height: 70px;
+}
+
+h2{
+	font-style: italic;
+}
+
+#logo4 img{
+	width: 90px;
+	height: 70px;
+}
+
+
+section{
+	display: flex;
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+article aside{
+	text-align: justify;
+}
+article{
+	margin-right: 20px;
+	flex: 3;
+}
+#logo5 img{
+	width: 90px;
+	height: 70px;
+}
+
+footer{
+	text-align: center;
+	font-family: strong;
+}
